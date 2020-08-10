@@ -1,0 +1,12 @@
+name: mtcars-Dataset
+title: mtcars-Dataset
+username:
+account: allenmonceyapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2655825
+bundleId: 3495458
+url: https://allenmonceyapps.shinyapps.io/mtcars-Dataset/
+when: 1597035700.27308
+asMultiple: FALSE
+asStatic: FALSE
